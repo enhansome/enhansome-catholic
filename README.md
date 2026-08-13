@@ -40,7 +40,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Apps
 
-* [gregorio](https://github.com/gregorio-project/gregorio) ⭐ 213 | 🐛 100 | 🌐 C | 📅 2026-08-03 - Software application for engraving Gregorian Chant scores on a computer.
+* [gregorio](https://github.com/gregorio-project/gregorio) ⭐ 213 | 🐛 101 | 🌐 C | 📅 2026-08-03 - Software application for engraving Gregorian Chant scores on a computer.
 * [Lectionary](https://github.com/Dev1an/Lectionary) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2020-03-01 - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
 * [Little Office](https://apps.apple.com/us/app/the-little-office/id6746760526) - The Little Office of the Blessed Virgin Mary for iOS, built with an elegant and easy to use UI. Android coming soon!
 
@@ -95,7 +95,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 456 | 🐛 1 | 🌐 HTML | 📅 2026-08-12 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 456 | 🐛 1 | 🌐 HTML | 📅 2026-08-13 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 232 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 117 | 🐛 9 | 🌐 Python | 📅 2026-08-10 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 29 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-11 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
