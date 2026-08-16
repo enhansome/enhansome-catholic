@@ -48,7 +48,7 @@
             "last_commit": "2026-04-24T00:06:46Z",
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T23:32:06Z",
+            "last_commit": "2026-08-15T22:36:17Z",
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 99
@@ -165,6 +165,20 @@
         },
         {
           "node_type": "item",
+          "title": "lumen-impulse",
+          "description": "API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T01:46:04Z",
+            "owner": "michaelporwol",
+            "repo": "lumen-impulse",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "caminho-api",
           "description": "A public API, built with Python and FastAPI, that serves the 999 points of the book \"The Way\" by Saint Josemaria Escrivá in portuguese.",
           "children": [],
@@ -174,20 +188,6 @@
             "last_commit": "2025-10-22T22:14:43Z",
             "owner": "ElderFausto",
             "repo": "caminho-api",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lumen-impulse",
-          "description": "API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T01:56:32Z",
-            "owner": "michaelporwol",
-            "repo": "lumen-impulse",
             "stars": 1
           }
         },
@@ -613,10 +613,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T09:41:53Z",
+            "last_commit": "2026-08-16T09:00:34Z",
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2024-08-28T16:44:30Z",
             "owner": "dssjon",
             "repo": "biblos",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -994,7 +994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:48:57.605Z",
+    "last_updated": "2026-08-16T11:49:52.800Z",
     "original_repository": "servusdei2018/awesome-catholic",
     "original_repository_sha": "932f0851b85e744506d297c5fc204f6cb30cd590",
     "enhanced_repository": "enhansome/enhansome-catholic",
