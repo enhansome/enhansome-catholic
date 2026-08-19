@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080779068,
             "language": "Python",
             "last_commit": "2025-11-17T04:27:41Z",
             "owner": "CatholicOS",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1045841225,
             "language": "TypeScript",
             "last_commit": "2026-08-02T10:12:47Z",
             "owner": "sf17490",
@@ -35,7 +37,7 @@
       "title": "AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 495218499,
             "language": null,
             "last_commit": "2026-04-24T00:06:46Z",
             "owner": "Dancrf",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37094135,
             "language": "Ruby",
             "last_commit": "2024-04-01T07:22:15Z",
             "owner": "igneus",
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98356974,
             "language": "PHP",
-            "last_commit": "2026-08-17T21:31:01Z",
+            "last_commit": "2026-08-19T09:50:57Z",
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 100
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 413047324,
             "language": "Kotlin",
             "last_commit": "2021-11-21T04:29:01Z",
             "owner": "aseemsavio",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29956655,
             "language": "PHP",
             "last_commit": "2023-12-29T14:22:44Z",
             "owner": "jayarathina",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88164368,
             "language": "JavaScript",
             "last_commit": "2023-11-21T19:02:14Z",
             "owner": "graysonhicks",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73723221,
             "language": "PHP",
             "last_commit": "2018-05-28T19:49:42Z",
             "owner": "carpedeum-fr",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567066081,
             "language": "JavaScript",
             "last_commit": "2025-12-18T00:50:10Z",
             "owner": "erickouassi",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799864803,
             "language": "HTML",
             "last_commit": "2025-09-03T15:02:07Z",
             "owner": "GomezMig03",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159221726,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T01:47:09Z",
+            "last_commit": "2026-08-19T01:58:35Z",
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
             "stars": 2
@@ -184,24 +196,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1081460035,
             "language": "Python",
             "last_commit": "2025-10-22T22:14:43Z",
             "owner": "ElderFausto",
             "repo": "caminho-api",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "matosSoaresBibliaApi",
-          "description": "API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.",
-          "children": []
         }
       ],
       "title": "APIs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20884374,
             "language": "C",
             "last_commit": "2026-08-03T14:26:01Z",
             "owner": "gregorio-project",
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242020141,
             "language": "Swift",
             "last_commit": "2020-03-01T16:12:10Z",
             "owner": "Dev1an",
@@ -235,7 +244,7 @@
       "title": "Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174210731,
             "language": "Awk",
             "last_commit": "2023-03-14T02:50:25Z",
             "owner": "LukeSmithxyz",
@@ -258,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102708201,
             "language": "Python",
             "last_commit": "2020-11-29T19:32:49Z",
             "owner": "davidrmcharles",
@@ -272,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212888607,
             "language": "Ruby",
             "last_commit": "2023-02-09T13:41:28Z",
             "owner": "calendarium-romanum",
@@ -286,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562923693,
             "language": "Rust",
             "last_commit": "2024-11-18T20:19:23Z",
             "owner": "ngorden",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304977143,
             "language": "Go",
             "last_commit": "2026-02-23T04:00:48Z",
             "owner": "TeamDei",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 783415380,
             "language": "Ruby",
             "last_commit": "2024-04-09T13:14:04Z",
             "owner": "ngorden",
@@ -328,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627104583,
             "language": "Shell",
             "last_commit": "2023-04-14T01:16:42Z",
             "owner": "RaynardGerraldo",
@@ -342,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1016403383,
             "language": "JavaScript",
             "last_commit": "2025-07-09T01:09:20Z",
             "owner": "ngorden",
@@ -353,7 +370,7 @@
       "title": "Command Line"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -362,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22242102,
             "language": "TypeScript",
             "last_commit": "2026-08-15T01:22:48Z",
             "owner": "romcal",
@@ -376,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51529693,
             "language": "HTML",
             "last_commit": "2026-04-19T23:53:39Z",
             "owner": "Geremia",
@@ -390,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178670984,
             "language": "Python",
             "last_commit": "2022-12-08T05:18:12Z",
             "owner": "nossbigg",
@@ -404,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539795746,
             "language": "Python",
             "last_commit": "2022-09-24T07:59:43Z",
             "owner": "aseemsavio",
@@ -418,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156564931,
             "language": "Go",
             "last_commit": "2020-08-18T00:19:54Z",
             "owner": "mborders",
@@ -432,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474433702,
             "language": "Python",
             "last_commit": "2022-03-28T22:51:21Z",
             "owner": "Medromenax",
@@ -446,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22805224,
             "language": "TeX",
             "last_commit": "2015-10-02T14:34:46Z",
             "owner": "ahinkley",
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71639576,
             "language": "PHP",
             "last_commit": "2026-05-02T12:52:52Z",
             "owner": "jayarathina",
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175459443,
             "language": "Go",
             "last_commit": "2026-05-11T03:33:11Z",
             "owner": "mborders",
@@ -488,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774549118,
             "language": "Shell",
             "last_commit": "2024-08-12T23:48:44Z",
             "owner": "rvbcldud",
@@ -502,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013433872,
             "language": "JavaScript",
             "last_commit": "2025-07-04T20:11:07Z",
             "owner": "mattwong97",
@@ -516,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585430553,
             "language": "Python",
             "last_commit": "2026-08-04T00:39:15Z",
             "owner": "chrisvo",
@@ -530,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012819783,
             "language": null,
             "last_commit": "2025-07-03T00:01:57Z",
             "owner": "mattwong97",
@@ -541,7 +571,7 @@
       "title": "Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -550,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4732653,
             "language": "Java",
             "last_commit": "2012-09-13T16:47:24Z",
             "owner": "geerlingguy",
@@ -564,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2589631,
             "language": "Objective-C",
             "last_commit": "2012-08-27T03:10:30Z",
             "owner": "geerlingguy",
@@ -578,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722846523,
             "language": "Dart",
             "last_commit": "2024-09-02T14:58:42Z",
             "owner": "aldrinzigmundv",
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75497053,
             "language": "Dart",
             "last_commit": "2025-12-15T15:57:29Z",
             "owner": "mftruso",
@@ -603,7 +637,7 @@
       "title": "Mobile-Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -612,8 +646,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33470245,
             "language": "HTML",
-            "last_commit": "2026-08-18T11:54:00Z",
+            "last_commit": "2026-08-19T00:27:53Z",
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 459
@@ -626,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706807360,
             "language": "Python",
             "last_commit": "2024-08-28T16:44:30Z",
             "owner": "dssjon",
@@ -640,8 +676,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30668978,
             "language": "Python",
-            "last_commit": "2026-08-17T04:31:21Z",
+            "last_commit": "2026-08-18T13:45:29Z",
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 119
@@ -654,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336112587,
             "language": "JavaScript",
             "last_commit": "2026-08-11T04:02:53Z",
             "owner": "kas-catholic",
@@ -668,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192057666,
             "language": "TypeScript",
             "last_commit": "2023-01-04T00:41:21Z",
             "owner": "nossbigg",
@@ -682,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492318626,
             "language": "HTML",
             "last_commit": "2024-04-09T04:02:14Z",
             "owner": "kburchfiel",
@@ -696,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68310478,
             "language": "HTML",
             "last_commit": "2018-12-30T19:04:39Z",
             "owner": "benyanke",
@@ -710,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79646065,
             "language": "Python",
             "last_commit": "2020-09-14T15:29:52Z",
             "owner": "paucazou",
@@ -724,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267681858,
             "language": "JavaScript",
             "last_commit": "2023-01-06T07:18:18Z",
             "owner": "tbaba007",
@@ -738,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280881962,
             "language": "CSS",
             "last_commit": "2020-11-24T17:06:02Z",
             "owner": "rat9615",
@@ -752,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 613316132,
             "language": "TypeScript",
             "last_commit": "2023-06-11T03:33:16Z",
             "owner": "marchiartur",
@@ -766,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718748366,
             "language": "JavaScript",
             "last_commit": "2025-03-20T14:38:52Z",
             "owner": "leozamboni",
@@ -780,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 836975020,
             "language": "TypeScript",
             "last_commit": "2026-06-11T18:51:09Z",
             "owner": "leozamboni",
@@ -794,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586490655,
             "language": "CSS",
             "last_commit": "2023-01-21T10:21:56Z",
             "owner": "matefs",
@@ -808,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295742483,
             "language": "JavaScript",
             "last_commit": "2023-02-20T01:04:02Z",
             "owner": "saint-isidore-guild",
@@ -822,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378493219,
             "language": "MDX",
             "last_commit": "2026-03-06T23:27:30Z",
             "owner": "anna-wro",
@@ -836,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 996395734,
             "language": "TypeScript",
             "last_commit": "2025-06-25T01:05:50Z",
             "owner": "nonnobisdomine62",
@@ -850,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994245371,
             "language": "TypeScript",
             "last_commit": "2025-07-04T03:14:49Z",
             "owner": "nonnobisdomine62",
@@ -864,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488720762,
             "language": "HTML",
             "last_commit": "2025-04-12T01:19:25Z",
             "owner": "emamut",
@@ -878,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 997564793,
             "language": "HTML",
             "last_commit": "2025-06-16T12:28:17Z",
             "owner": "port19x",
@@ -892,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 989659872,
             "language": "HTML",
             "last_commit": "2025-06-15T13:14:08Z",
             "owner": "shineministry",
@@ -906,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994259978,
             "language": "TypeScript",
             "last_commit": "2025-06-26T23:06:54Z",
             "owner": "nonnobisdomine62",
@@ -920,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1028706919,
             "language": "CSS",
             "last_commit": "2025-07-31T23:25:22Z",
             "owner": "masaharumori7",
@@ -934,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1100712322,
             "language": "HTML",
             "last_commit": "2026-06-14T16:52:46Z",
             "owner": "leozamboni",
@@ -945,7 +1003,7 @@
       "title": "Web-Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -954,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292140391,
             "language": null,
             "last_commit": "2020-12-13T12:27:14Z",
             "owner": "historical-theology",
@@ -968,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102901601,
             "language": null,
             "last_commit": "2022-10-11T10:24:02Z",
             "owner": "calendarium-romanum",
@@ -982,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136671037,
             "language": null,
             "last_commit": "2018-09-26T18:54:40Z",
             "owner": "awesome-bible",
@@ -994,8 +1055,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:54:11.988Z",
+    "last_updated": "2026-08-19T11:53:56.266Z",
     "original_repository": "servusdei2018/awesome-catholic",
+    "original_repository_id": 234456827,
     "original_repository_sha": "932f0851b85e744506d297c5fc204f6cb30cd590",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
