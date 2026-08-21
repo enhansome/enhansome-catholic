@@ -78,7 +78,7 @@
             "archived": false,
             "id": 98356974,
             "language": "PHP",
-            "last_commit": "2026-08-20T08:07:31Z",
+            "last_commit": "2026-08-21T10:00:37Z",
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 100
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 1159221726,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T01:54:05Z",
+            "last_commit": "2026-08-21T01:39:57Z",
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
             "stars": 2
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 22242102,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:22:48Z",
+            "last_commit": "2026-08-20T23:26:56Z",
             "owner": "romcal",
             "repo": "romcal",
             "stars": 138
@@ -648,7 +648,7 @@
             "archived": false,
             "id": 33470245,
             "language": "HTML",
-            "last_commit": "2026-08-20T09:01:05Z",
+            "last_commit": "2026-08-20T16:40:15Z",
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 461
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:55:24.333Z",
+    "last_updated": "2026-08-21T11:55:11.797Z",
     "original_repository": "servusdei2018/awesome-catholic",
     "original_repository_id": 234456827,
     "original_repository_sha": "932f0851b85e744506d297c5fc204f6cb30cd590",
