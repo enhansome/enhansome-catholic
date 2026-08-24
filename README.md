@@ -40,7 +40,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Apps
 
-* [gregorio](https://github.com/gregorio-project/gregorio) ⭐ 215 | 🐛 104 | 🌐 C | 📅 2026-08-03 - Software application for engraving Gregorian Chant scores on a computer.
+* [gregorio](https://github.com/gregorio-project/gregorio) ⭐ 215 | 🐛 106 | 🌐 C | 📅 2026-08-03 - Software application for engraving Gregorian Chant scores on a computer.
 * [Lectionary](https://github.com/Dev1an/Lectionary) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2020-03-01 - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
 * [Little Office](https://apps.apple.com/us/app/the-little-office/id6746760526) - The Little Office of the Blessed Virgin Mary for iOS, built with an elegant and easy to use UI. Android coming soon!
 
@@ -97,7 +97,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 * [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 461 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 233 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
-* [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 119 | 🐛 5 | 🌐 Python | 📅 2026-08-24 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
+* [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2026-08-24 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 29 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-11 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [Catechism](https://github.com/nossbigg/catechism) ⭐ 25 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-04 -  The Catechism of the Catholic Church, modernised ⭐️⛪️.
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) ⭐ 13 | 🐛 1 | 🌐 HTML | 📅 2024-04-09 - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
