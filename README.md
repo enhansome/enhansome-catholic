@@ -2,7 +2,7 @@
 
 A curated list of awesome Catholic projects, libraries and software.
 
-[En français](https://github.com/servusdei2018/awesome-catholic/blob/master/README.FR.md) ⭐ 333 | 🐛 0 | 📅 2026-07-26 | [En español](https://github.com/servusdei2018/awesome-catholic/blob/master/README.ES.md) ⭐ 333 | 🐛 0 | 📅 2026-07-26 | [Em português](https://github.com/servusdei2018/awesome-catholic/blob/master/README.PT-BR.md) ⭐ 333 | 🐛 0 | 📅 2026-07-26 | [Po polsku](https://github.com/servusdei2018/awesome-catholic/blob/master/README.PL-PL.md) ⭐ 333 | 🐛 0 | 📅 2026-07-26
+[En français](https://github.com/servusdei2018/awesome-catholic/blob/master/README.FR.md) ⭐ 335 | 🐛 0 | 📅 2026-07-26 | [En español](https://github.com/servusdei2018/awesome-catholic/blob/master/README.ES.md) ⭐ 335 | 🐛 0 | 📅 2026-07-26 | [Em português](https://github.com/servusdei2018/awesome-catholic/blob/master/README.PT-BR.md) ⭐ 335 | 🐛 0 | 📅 2026-07-26 | [Po polsku](https://github.com/servusdei2018/awesome-catholic/blob/master/README.PL-PL.md) ⭐ 335 | 🐛 0 | 📅 2026-07-26
 
 ## Contents
 
@@ -26,7 +26,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 * [liturgia-diaria](https://github.com/Dancrf/liturgia-diaria) ⭐ 211 | 🐛 6 | 📅 2026-04-24 - An API for the daily readings in Portuguese.
 * [church-calendar-api](https://github.com/igneus/church-calendar-api) ⭐ 136 | 🐛 12 | 🌐 Ruby | 📅 2024-04-01 - RESTful API providing Roman Catholic church calendar data for your apps.
-* [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) ⭐ 100 | 🐛 29 | 🌐 PHP | 📅 2026-08-24 - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
+* [Liturgical Calendar](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI) ⭐ 100 | 🐛 30 | 🌐 PHP | 📅 2026-08-25 - A PHP script that will generate the liturgical calendar for any given year, based on the General Roman Calendar, calculating the mobile festivities and the precedence of solemnities, feasts, and memorials.
 * [Biblia-Sacra-Vulgata](https://github.com/aseemsavio/Biblia-Sacra-Vulgata) ⭐ 18 | 🐛 1 | 🌐 Kotlin | 📅 2021-11-21 - Biblia Sacra Vulgata is a RESTful API project primarily serving the Original Latin Vulgate ( ✝️ Biblia Sacra Vulgata) and its English Translation - Catholic Public Domain Version (CPDV) with study notes.
 * [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2023-12-29 - Tamil Bible Database in MySQL with PHP API.
 * [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-21 - The holiest lorem ipsum generator on the internet. Use online, or with API.
@@ -40,7 +40,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Apps
 
-* [gregorio](https://github.com/gregorio-project/gregorio) ⭐ 215 | 🐛 106 | 🌐 C | 📅 2026-08-03 - Software application for engraving Gregorian Chant scores on a computer.
+* [gregorio](https://github.com/gregorio-project/gregorio) ⭐ 215 | 🐛 104 | 🌐 C | 📅 2026-08-24 - Software application for engraving Gregorian Chant scores on a computer.
 * [Lectionary](https://github.com/Dev1an/Lectionary) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2020-03-01 - A beautifully designed app to view daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.
 * [Little Office](https://apps.apple.com/us/app/the-little-office/id6746760526) - The Little Office of the Blessed Virgin Mary for iOS, built with an elegant and easy to use UI. Android coming soon!
 
@@ -95,7 +95,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 461 | 🐛 0 | 🌐 HTML | 📅 2026-08-24 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 461 | 🐛 0 | 🌐 HTML | 📅 2026-08-25 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 233 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2026-08-24 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 29 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-11 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
@@ -131,10 +131,10 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Related-Awesome-Lists
 
-* [Awesome Theology](https://github.com/historical-theology/awesome-theology) ⭐ 70 | 🐛 0 | 📅 2020-12-13 - A curated list of open source software for Catholic theology.
-* [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) ⭐ 30 | 🐛 3 | 📅 2022-10-11 - List of software related to liturgical calendar computations.
-* [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) ⭐ 15 | 🐛 1 | 📅 2018-09-26 - A curated list of awesome resources and websites about the Bible and topics related to it.
+* [Awesome Theology](https://github.com/historical-theology/awesome-theology) ⭐ 71 | 🐛 0 | 📅 2020-12-13 - A curated list of open source software for Catholic theology.
+* [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) ⭐ 31 | 🐛 3 | 📅 2022-10-11 - List of software related to liturgical calendar computations.
+* [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) ⭐ 16 | 🐛 1 | 📅 2018-09-26 - A curated list of awesome resources and websites about the Bible and topics related to it.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
