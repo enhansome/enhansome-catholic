@@ -78,10 +78,10 @@
             "archived": false,
             "id": 98356974,
             "language": "PHP",
-            "last_commit": "2026-08-25T08:00:53Z",
+            "last_commit": "2026-08-26T07:03:01Z",
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 1159221726,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T23:19:29Z",
+            "last_commit": "2026-08-26T02:12:25Z",
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
             "stars": 2
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 22242102,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T21:00:45Z",
+            "last_commit": "2026-08-26T09:37:20Z",
             "owner": "romcal",
             "repo": "romcal",
             "stars": 138
@@ -648,7 +648,7 @@
             "archived": false,
             "id": 33470245,
             "language": "HTML",
-            "last_commit": "2026-08-25T10:22:16Z",
+            "last_commit": "2026-08-25T16:29:07Z",
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 461
@@ -678,7 +678,7 @@
             "archived": false,
             "id": 30668978,
             "language": "Python",
-            "last_commit": "2026-08-24T13:32:25Z",
+            "last_commit": "2026-08-25T14:01:37Z",
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 119
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:57:23.979Z",
+    "last_updated": "2026-08-26T11:59:03.032Z",
     "original_repository": "servusdei2018/awesome-catholic",
     "original_repository_id": 234456827,
     "original_repository_sha": "932f0851b85e744506d297c5fc204f6cb30cd590",
