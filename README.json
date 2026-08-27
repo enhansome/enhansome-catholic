@@ -78,7 +78,7 @@
             "archived": false,
             "id": 98356974,
             "language": "PHP",
-            "last_commit": "2026-08-27T09:08:20Z",
+            "last_commit": "2026-08-27T16:26:34Z",
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 101
@@ -648,10 +648,10 @@
             "archived": false,
             "id": 33470245,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:39:01Z",
+            "last_commit": "2026-08-27T19:12:19Z",
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 462
+            "stars": 463
           }
         },
         {
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:51.995Z",
+    "last_updated": "2026-08-27T21:07:53.758Z",
     "original_repository_info": {
       "archived": false,
       "id": 234456827,
