@@ -51,7 +51,7 @@
             "last_commit": "2026-04-24T00:06:46Z",
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 98356974,
             "language": "PHP",
-            "last_commit": "2026-08-26T07:03:01Z",
+            "last_commit": "2026-08-27T09:08:20Z",
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 101
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 1159221726,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T02:12:25Z",
+            "last_commit": "2026-08-27T04:12:35Z",
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
             "stars": 2
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 22242102,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:37:20Z",
+            "last_commit": "2026-08-27T06:05:32Z",
             "owner": "romcal",
             "repo": "romcal",
             "stars": 138
@@ -648,10 +648,10 @@
             "archived": false,
             "id": 33470245,
             "language": "HTML",
-            "last_commit": "2026-08-25T16:29:07Z",
+            "last_commit": "2026-08-27T10:39:01Z",
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -873,7 +873,7 @@
             "archived": false,
             "id": 378493219,
             "language": "MDX",
-            "last_commit": "2026-03-06T23:27:30Z",
+            "last_commit": "2026-08-26T14:22:15Z",
             "owner": "anna-wro",
             "repo": "rkk",
             "stars": 4
@@ -1055,9 +1055,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:59:03.032Z",
-    "original_repository": "servusdei2018/awesome-catholic",
-    "original_repository_id": 234456827,
+    "last_updated": "2026-08-27T11:29:51.995Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 234456827,
+      "language": null,
+      "last_commit": "2026-07-26T17:17:02Z",
+      "owner": "servusdei2018",
+      "repo": "awesome-catholic",
+      "stars": 335
+    },
     "original_repository_sha": "932f0851b85e744506d297c5fc204f6cb30cd590",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
