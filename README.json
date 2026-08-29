@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP (Model Context Protocol) server that will allow AI agents to interact with the Liturgical Calendar API.",
+            "homepage": null,
             "id": 1080779068,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-17T04:27:41Z",
+            "open_issues": 3,
             "owner": "CatholicOS",
             "repo": "liturgical-calendar-mcp",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "catholic",
+              "catholic-liturgy",
+              "catholicism",
+              "hackathon2025",
+              "liturgical-calendar",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web app listing Roman Catholic confession times in Central London (Zone 1). Updated weekly by AI.",
+            "homepage": null,
             "id": 1045841225,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-02T10:12:47Z",
+            "open_issues": 4,
             "owner": "sf17490",
             "repo": "london-confessions",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -48,12 +65,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API que fornece as orações e leituras do dia da Santa Missa.",
+            "homepage": "https://liturgia.up.railway.app/v2/",
             "id": 495218499,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-24T00:06:46Z",
+            "open_issues": 6,
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "catholic",
+              "catholicism",
+              "javascript",
+              "liturgia",
+              "liturgical",
+              "liturgical-calendar",
+              "liturgy",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -64,12 +95,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API providing Roman Catholic church calendar data for your apps",
+            "homepage": "http://calapi.inadiutorium.cz",
             "id": 37094135,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-04-01T07:22:15Z",
+            "open_issues": 12,
             "owner": "igneus",
             "repo": "church-calendar-api",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "api",
+              "calendar",
+              "church",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -80,12 +121,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PHP script / API endpoint that will generate the Roman Catholic liturgical calendar for any given year, calculating the mobile festivities and the precedence of solemnities, feasts, memorials...",
+            "homepage": null,
             "id": 98356974,
             "language": "PHP",
-            "last_commit": "2026-08-28T20:56:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:17:31Z",
+            "open_issues": 29,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "api",
+              "calendar",
+              "catholic",
+              "catholicism",
+              "easter",
+              "feast",
+              "feasts",
+              "festivities",
+              "liturgical",
+              "liturgy",
+              "memorial",
+              "rest-api",
+              "solemnity"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -96,12 +156,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open API for the Latin Vulgate, its English Translation - Catholic Public Domain Version [CPDV] with commentry",
+            "homepage": null,
             "id": 413047324,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-21T04:29:01Z",
+            "open_issues": 1,
             "owner": "aseemsavio",
             "repo": "Biblia-Sacra-Vulgata",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bible",
+              "bible-api",
+              "bible-translations",
+              "catholic",
+              "catholicism",
+              "christian",
+              "christianity",
+              "latin",
+              "vulgate"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -112,12 +187,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tamil Bible Database in MySQL with PHP API",
+            "homepage": "http://bible.madharasan.com/live/",
             "id": 29956655,
             "language": "PHP",
+            "license": "Unlicense",
             "last_commit": "2023-12-29T14:22:44Z",
+            "open_issues": 0,
             "owner": "jayarathina",
             "repo": "Tamil-Bible-Database",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "bible",
+              "catholic",
+              "catholic-bible",
+              "tamil",
+              "tamil-bible-database",
+              "tamil-catholic"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -128,12 +215,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The holiest lorem ipsum generator on the internet.  Use online, or with the API.",
+            "homepage": "https://graysonhicks.github.io/sanctum-ipsum/",
             "id": 88164368,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-11-21T19:02:14Z",
+            "open_issues": 1,
             "owner": "graysonhicks",
             "repo": "sanctum-ipsum",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "catholic",
+              "christian",
+              "create-react-app",
+              "javascript",
+              "lorem-ipsum",
+              "node",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -144,12 +245,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoMesse, an app to get mass time in your country (starting with France 🇫🇷🥖🧀🍷🚬)",
+            "homepage": "https://api.geomesse.com",
             "id": 73723221,
             "language": "PHP",
+            "license": null,
             "last_commit": "2018-05-28T19:49:42Z",
+            "open_issues": 3,
             "owner": "carpedeum-fr",
             "repo": "geomesse-api",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "catholic",
+              "chatbot",
+              "php",
+              "symfony",
+              "symfony-api",
+              "symfony-application",
+              "symfony3"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -160,12 +274,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources. Built with Node.js and deployed on Vercel, this open-source project offers unauthenticated JSON endpoints for basic prayers, the Stations of the Cross, and lists of saints with feast days.",
+            "homepage": "https://the-collection-of-catholic-prayers-api.vercel.app",
             "id": 567066081,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-18T00:50:10Z",
+            "open_issues": 0,
             "owner": "erickouassi",
             "repo": "The-Collection-of-Catholic-Prayers-Api",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "catholic",
+              "prayer-times",
+              "prayer-times-app",
+              "prayers"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -176,12 +300,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Help people overcome their problems with catholic and secular motivational phrases.                         Addiction Helper: https://addiction-helper.vercel.app/",
+            "homepage": "https://gomezmig03.github.io/MotivationalAPI/",
             "id": 799864803,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-09-03T15:02:07Z",
+            "open_issues": 0,
             "owner": "GomezMig03",
             "repo": "MotivationalAPI",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "api",
+              "bible",
+              "catholic",
+              "catholicism",
+              "motivational-quotes"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -192,12 +327,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daily Catholic gospel reflections in German, English, and Polish. AI-generated nightly via GitHub Actions, served as static JSON for any client to consume. Powers the Lumen examen app.",
+            "homepage": "https://lumenexamen.com",
             "id": 1159221726,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T11:52:04Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:06:22Z",
+            "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "bible",
+              "catholic",
+              "catholic-app",
+              "daily-devotional",
+              "examen",
+              "github-pages",
+              "gospel",
+              "ignatian",
+              "liturgy",
+              "lumen",
+              "magisterium-ai",
+              "prayer",
+              "reflection",
+              "scripture",
+              "static-json"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -208,12 +364,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✝️ A high-performance FastAPI API that serves the 999 points of 'The Way', pre-collected via web scraping with Python, Selenium & BeautifulSoup.",
+            "homepage": null,
             "id": 1081460035,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-22T22:14:43Z",
+            "open_issues": 0,
             "owner": "ElderFausto",
             "repo": "caminho-api",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "automation",
+              "beatifulsoup",
+              "fastapi",
+              "json",
+              "python",
+              "python3",
+              "selenium",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -230,12 +400,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Gregorio Project",
+            "homepage": "http://gregorio-project.github.io",
             "id": 20884374,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T19:09:30Z",
+            "open_issues": 104,
             "owner": "gregorio-project",
             "repo": "gregorio",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "cultural-heritage",
+              "music-notation",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -246,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View daily readings in different languages. Can export JSON to create booklets for Nightfever Leuven.",
+            "homepage": null,
             "id": 242020141,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-03-01T16:12:10Z",
+            "open_issues": 0,
             "owner": "Dev1an",
             "repo": "Lectionary",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -268,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latin Vulgate Bible on the Command Line",
+            "homepage": null,
             "id": 174210731,
             "language": "Awk",
+            "license": null,
             "last_commit": "2023-03-14T02:50:25Z",
+            "open_issues": 1,
             "owner": "LukeSmithxyz",
             "repo": "vul",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -284,12 +473,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for studying Ecclesiastical Latin",
+            "homepage": "http://fideidepositum.org",
             "id": 102708201,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-29T19:32:49Z",
+            "open_issues": 2,
             "owner": "davidrmcharles",
             "repo": "lectionarium",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bible",
+              "catholic",
+              "latin",
+              "lectionary"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -300,12 +499,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "liturgical calendar for the command line",
+            "homepage": null,
             "id": 212888607,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-09T13:41:28Z",
+            "open_issues": 11,
             "owner": "calendarium-romanum",
             "repo": "calrom",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "calendar",
+              "church",
+              "cli-app",
+              "hacktoberfest",
+              "liturgy",
+              "ruby",
+              "ruby-gem"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -316,12 +528,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daily Catholic Readings in your Terminal",
+            "homepage": null,
             "id": 562923693,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-11-18T20:19:23Z",
+            "open_issues": 0,
             "owner": "ngorden",
             "repo": "agape-deus",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agape",
+              "catholic",
+              "theology"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -332,12 +553,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fast, cross-platform, lightweight interactive Latin reader",
+            "homepage": null,
             "id": 304977143,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-23T04:00:48Z",
+            "open_issues": 0,
             "owner": "TeamDei",
             "repo": "tandem",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "academic",
+              "analyses",
+              "cross-platform",
+              "hacktoberfest",
+              "latin"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -348,12 +580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read the bible in your terminal",
+            "homepage": null,
             "id": 783415380,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-04-09T13:14:04Z",
+            "open_issues": 0,
             "owner": "ngorden",
             "repo": "Sacra-Scriptura",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -364,12 +601,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool to give a side by side translation of the Latin Vulgate and the Douay Rheims bible",
+            "homepage": null,
             "id": 627104583,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-04-14T01:16:42Z",
+            "open_issues": 0,
             "owner": "RaynardGerraldo",
             "repo": "vul-dra",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "alkitab",
+              "bible",
+              "bible-study",
+              "bible-verse",
+              "catholic",
+              "catholicism",
+              "christianity",
+              "cli",
+              "douay-rheims",
+              "productivity",
+              "shell",
+              "vulgate"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -380,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A christian spin on the classic fortune program",
+            "homepage": null,
             "id": 1016403383,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-09T01:09:20Z",
+            "open_issues": 0,
             "owner": "ngorden",
             "repo": "christian-fortune",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -402,12 +662,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript library that generates liturgical calendars of the Roman Rite of the Roman Catholic Church.",
+            "homepage": "https://romcal.js.org",
             "id": 22242102,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:08:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:18:44Z",
+            "open_issues": 82,
             "owner": "romcal",
             "repo": "romcal",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "calendar",
+              "calendar-api",
+              "catholic",
+              "celebrations",
+              "javascript",
+              "liturgical-seasons",
+              "liturgy",
+              "roman-calendar",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -418,12 +693,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "edited mirror of http://dhspriory.org/thomas/ , St. Thomas Aquinas's complete works (most bilingual, Latin-English)",
+            "homepage": "https://isidore.co/aquinas",
             "id": 51529693,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-04-19T23:53:39Z",
+            "open_issues": 0,
             "owner": "Geremia",
             "repo": "AquinasOperaOmnia",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "catholic",
+              "catholicism",
+              "latin-language",
+              "philosophy",
+              "theology"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -434,12 +720,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Catechism of the Catholic Church, now available in json format!",
+            "homepage": null,
             "id": 178670984,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T05:18:12Z",
+            "open_issues": 2,
             "owner": "nossbigg",
             "repo": "catechism-ccc-json",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "catechism",
+              "catholic",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -450,12 +745,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Catechism of The Catholic Church, The Canon Law, and The General Instruction of The Roman Missal all in JSON",
+            "homepage": null,
             "id": 539795746,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-24T07:59:43Z",
+            "open_issues": 3,
             "owner": "aseemsavio",
             "repo": "catholicism-in-json",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "catholic",
+              "catholicism",
+              "christian",
+              "christianity",
+              "theology"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -466,12 +772,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang library containing the entire Holy Bible with both the Douay-Rheims English and Clementina Vulgata Latin texts",
+            "homepage": null,
             "id": 156564931,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-08-18T00:19:54Z",
+            "open_issues": 0,
             "owner": "mborders",
             "repo": "vulgata",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "bible",
+              "catholic-bible",
+              "clementina-vulgata",
+              "douay-rheims",
+              "golang",
+              "latin-bible",
+              "vulgata",
+              "vulgate"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -482,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catholic-themed python package",
+            "homepage": null,
             "id": 474433702,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-28T22:51:21Z",
+            "open_issues": 0,
             "owner": "Medromenax",
             "repo": "pytholic",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -498,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retypeset the 1908 Editio Vaticana Graduale Romanum.",
+            "homepage": null,
             "id": 22805224,
             "language": "TeX",
+            "license": null,
             "last_commit": "2015-10-02T14:34:46Z",
+            "open_issues": 0,
             "owner": "ahinkley",
             "repo": "graduale-romanum-1908",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -514,12 +844,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Roman Catholic Liturgical Calendar Generator",
+            "homepage": null,
             "id": 71639576,
             "language": "PHP",
+            "license": "Unlicense",
             "last_commit": "2026-05-02T12:52:52Z",
+            "open_issues": 0,
             "owner": "jayarathina",
             "repo": "Roman-Calendar",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "advent",
+              "catholic",
+              "feasts",
+              "liturgical-seasons",
+              "liturgy",
+              "roman-calendar"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -530,12 +872,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang library containing the entire Roman Catechism of the Council of Trent",
+            "homepage": null,
             "id": 175459443,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-11T03:33:11Z",
+            "open_issues": 0,
             "owner": "mborders",
             "repo": "romanus",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "catechism",
+              "catechism-of-the-council-of-trent",
+              "catholic",
+              "golang",
+              "roman-catechism"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -546,12 +899,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of FOCUS Bible studies in booklet format.",
+            "homepage": null,
             "id": 774549118,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-08-12T23:48:44Z",
+            "open_issues": 0,
             "owner": "rvbcldud",
             "repo": "focus-study",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bible-study",
+              "catholic",
+              "pdf-document-processor"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -562,12 +924,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catechism of St. Pius X frontend",
+            "homepage": "https://catechismstpiusx.onrender.com/",
             "id": 1013433872,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-04T20:11:07Z",
+            "open_issues": 0,
             "owner": "mattwong97",
             "repo": "catechism-st-pius-x-frontend",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "catechism",
+              "catholic",
+              "christian",
+              "javascript",
+              "nextjs"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -578,12 +951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daily-updated dataset of Catholic Cardinals scraped from Wikipedia. Multi-format exports (JSON/CSV/XML) with automated change tracking and releases.",
+            "homepage": null,
             "id": 585430553,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T00:39:15Z",
+            "open_issues": 0,
             "owner": "chrisvo",
             "repo": "cardinals",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -594,12 +972,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Baltimore Catechism No. 2 in JSON",
+            "homepage": null,
             "id": 1012819783,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-03T00:01:57Z",
+            "open_issues": 0,
             "owner": "mattwong97",
             "repo": "baltimore-catechism-no-2",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "catechism",
+              "catholic",
+              "christian",
+              "json"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -616,12 +1004,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catholic Diocese App for Android",
+            "homepage": null,
             "id": 4732653,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2012-09-13T16:47:24Z",
+            "open_issues": 3,
             "owner": "geerlingguy",
             "repo": "Catholic-Diocese-App-Android",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "android",
+              "app",
+              "appstore",
+              "catholic",
+              "diocese",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -632,12 +1032,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catholic Diocese App for iOS",
+            "homepage": "http://catholicdioceseapp.com/",
             "id": 2589631,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2012-08-27T03:10:30Z",
+            "open_issues": 2,
             "owner": "geerlingguy",
             "repo": "Catholic-Diocese-App-iOS",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "app",
+              "catholic",
+              "diocese",
+              "ios",
+              "iphone",
+              "objective-c",
+              "uitabview"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -648,12 +1061,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mariam is a free, open-source meditative rosary app that enables believers to pray the rosary even when they don't have a physical rosary at hand.",
+            "homepage": "https://www.aldrinzigmund.com/#free-apps",
             "id": 722846523,
             "language": "Dart",
+            "license": null,
             "last_commit": "2024-09-02T14:58:42Z",
+            "open_issues": 1,
             "owner": "aldrinzigmundv",
             "repo": "mariam",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "app",
+              "catholic",
+              "flutter",
+              "rosary"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -664,12 +1087,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile app for praying the St. Andrew Novena prayer 15 times daily",
+            "homepage": "https://play.google.com/store/apps/details?id=com.miketruso.standrewnovena",
             "id": 75497053,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2025-12-15T15:57:29Z",
+            "open_issues": 9,
             "owner": "mftruso",
             "repo": "st-andrew-novena",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "android",
+              "catholic",
+              "christmas",
+              "flutter",
+              "ios",
+              "prayer"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -686,12 +1121,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Divinum Officium Project: Traditional Roman Missal and Breviary Texts",
+            "homepage": "http://www.divinumofficium.com/",
             "id": 33470245,
             "language": "HTML",
-            "last_commit": "2026-08-28T20:57:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:04:57Z",
+            "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 463
+            "stars": 463,
+            "topics": [
+              "breviary",
+              "catholic",
+              "divine-office",
+              "liturgy",
+              "missal"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -702,12 +1148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic Bible Search and Multi-Layered Analysis",
+            "homepage": "http://www.biblos.app",
             "id": 706807360,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-28T16:44:30Z",
+            "open_issues": 1,
             "owner": "dssjon",
             "repo": "biblos",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -718,12 +1169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1962 Roman Catholic Missal for the Traditional Latin Mass",
+            "homepage": "https://www.missalemeum.com",
             "id": 30668978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:01:37Z",
+            "open_issues": 1,
             "owner": "mmolenda",
             "repo": "missalemeum",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -734,12 +1190,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for https://confessit.app",
+            "homepage": null,
             "id": 336112587,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T04:02:53Z",
+            "open_issues": 20,
             "owner": "kas-catholic",
             "repo": "confessit-web",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "catholic",
+              "catholicism",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -750,12 +1215,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Catechism of the Catholic Church, modernised ⭐️⛪️",
+            "homepage": "https://nossbigg.github.io/catechism/",
             "id": 192057666,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-04T00:41:21Z",
+            "open_issues": 24,
             "owner": "nossbigg",
             "repo": "catechism",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "catechism",
+              "catholic",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -766,12 +1240,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project shows how to use Python to create a map of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.",
+            "homepage": null,
             "id": 492318626,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-09T04:02:14Z",
+            "open_issues": 1,
             "owner": "kburchfiel",
             "repo": "us_diocese_mapper",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "catholicism",
+              "folium",
+              "maps",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -782,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Catholic Sunday hand missal web app for the TLM",
+            "homepage": "http://missal.io",
             "id": 68310478,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-12-30T19:04:39Z",
+            "open_issues": 4,
             "owner": "benyanke",
             "repo": "missal.io",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -798,12 +1287,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A calendar for Tridentine rite",
+            "homepage": "http://theochrone.fr",
             "id": 79646065,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-14T15:29:52Z",
+            "open_issues": 13,
             "owner": "paucazou",
             "repo": "theochrone",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "catholicism",
+              "extraordinary",
+              "form",
+              "latin",
+              "liturgy",
+              "mass",
+              "python3",
+              "rite"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -814,12 +1317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application that is for catholic faithfuls to help them practice their faith daily. This app helps them to pray daily and read daily mass readings from the comfort of their phones. They can download mass readings for the future and also make homilies out of them daily.  They can share saved homilies via social media of their choice depending on the ones installed on their phones",
+            "homepage": null,
             "id": 267681858,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-06T07:18:18Z",
+            "open_issues": 18,
             "owner": "tbaba007",
             "repo": "CatholicDaily",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -830,12 +1338,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":church: Requests and displays random passages from a Bible api.",
+            "homepage": null,
             "id": 280881962,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-11-24T17:06:02Z",
+            "open_issues": 0,
             "owner": "rat9615",
             "repo": "random-bible-verses",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bible",
+              "bible-verse",
+              "reactjs",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -846,12 +1364,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical guide to pray the Rosary",
+            "homepage": "https://prayrosary.netlify.app",
             "id": 613316132,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-11T03:33:16Z",
+            "open_issues": 0,
             "owner": "marchiartur",
             "repo": "pray-the-rosary",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "catholic",
+              "pray",
+              "rosary"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -862,12 +1389,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web app that helps you pray and learn to pray the Holy Rosary in Latin in an intuitive way",
+            "homepage": "https://leozamboni.github.io/Rosarium/",
             "id": 718748366,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-20T14:38:52Z",
+            "open_issues": 0,
             "owner": "leozamboni",
             "repo": "Rosarium",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "catholic",
+              "catholicism",
+              "christian"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -878,12 +1414,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A walking simulator web app that lets you explore churches",
+            "homepage": "https://leozamboni.github.io/Domus",
             "id": 836975020,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-11T18:51:09Z",
+            "open_issues": 1,
             "owner": "leozamboni",
             "repo": "Domus",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "catholic",
+              "catholicism",
+              "christian"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -894,12 +1439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Citation Generator using vanilla Javascript",
+            "homepage": null,
             "id": 586490655,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-01-21T10:21:56Z",
+            "open_issues": 0,
             "owner": "matefs",
             "repo": "Citation-Generator",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -910,12 +1460,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://ember-days.netlify.app/",
             "id": 295742483,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-02-20T01:04:02Z",
+            "open_issues": 18,
             "owner": "saint-isidore-guild",
             "repo": "ember-days",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "catholic",
+              "hacktoberfest",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -926,12 +1485,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PWA-based prayer application created pro publico bono for the needs of the Old Catholic Church community.",
+            "homepage": "https://oficjum.starokatolicy.eu",
             "id": 378493219,
             "language": "MDX",
+            "license": null,
             "last_commit": "2026-08-26T14:22:15Z",
+            "open_issues": 19,
             "owner": "anna-wro",
             "repo": "rkk",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "mdx",
+              "nextjs",
+              "progressive-web-app",
+              "pwa",
+              "react",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -942,12 +1514,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital reference for the Catholic Bible Cheatsheet from Dr. Taylor Marshall with Bible verses.",
+            "homepage": "https://catholic-bible-cheatsheet.onrender.com",
             "id": 996395734,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-25T01:05:50Z",
+            "open_issues": 0,
             "owner": "nonnobisdomine62",
             "repo": "catholic-bible-cheatsheet",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "apologetics",
+              "bible",
+              "catholic",
+              "christian"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -958,12 +1540,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traditional Catholic quote collection about the fewness of the saved, the rosary, and the use of Latin.",
+            "homepage": "https://tradcathquotes.onrender.com/",
             "id": 994245371,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-04T03:14:49Z",
+            "open_issues": 0,
             "owner": "nonnobisdomine62",
             "repo": "tradcathquotes",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "catholic",
+              "christian",
+              "latin",
+              "quotes",
+              "rosary"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -974,12 +1567,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect your faith with the ancestral tradition. Our digital platform invites you to immerse yourself in the devotion of Los Mil Jesús, a spiritual practice that unites believers in the invocation of the name of Jesus for the protection and blessing of the home.",
+            "homepage": "https://rezo-mil-jesus.netlify.app/",
             "id": 488720762,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-04-12T01:19:25Z",
+            "open_issues": 0,
             "owner": "emamut",
             "repo": "rezo-mil-jesus",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "bootstrap",
+              "catholic",
+              "vercel",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -990,12 +1593,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaplet of Saint Michael the Archangel",
+            "homepage": "https://chapletofsaintmichael.com/",
             "id": 997564793,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-06-16T12:28:17Z",
+            "open_issues": 0,
             "owner": "port19x",
             "repo": "StMichaelChaplet",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "catholic",
+              "christianity",
+              "rosary"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1006,12 +1618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Code of Canon Law, made by Shine Ministry!",
+            "homepage": "https://shineministry.github.io/codeofcanonlaw/",
             "id": 989659872,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-06-15T13:14:08Z",
+            "open_issues": 0,
             "owner": "shineministry",
             "repo": "codeofcanonlaw",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1022,12 +1639,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial frontend for the daily Auxilium Christianorum prayers for the laity.",
+            "homepage": "https://auxilium-christianorum-frontend.onrender.com",
             "id": 994259978,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-26T23:06:54Z",
+            "open_issues": 0,
             "owner": "nonnobisdomine62",
             "repo": "auxilium-christianorum-frontend",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "catholic",
+              "christian",
+              "prayer"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1038,12 +1664,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gallery list of all 38 Doctors of the Church with descriptions and notable works.",
+            "homepage": "https://doctorsofthechurch.onrender.com",
             "id": 1028706919,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-31T23:25:22Z",
+            "open_issues": 0,
             "owner": "masaharumori7",
             "repo": "doctors-of-the-church",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "catholic",
+              "christian"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1054,12 +1688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://leozamboni.github.io/index-librorum-prohibitorum/",
             "id": 1100712322,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-14T16:52:46Z",
+            "open_issues": 1,
             "owner": "leozamboni",
             "repo": "index-librorum-prohibitorum",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -1076,12 +1715,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of open source software for Catholic theology",
+            "homepage": null,
             "id": 292140391,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-12-13T12:27:14Z",
+            "open_issues": 0,
             "owner": "historical-theology",
             "repo": "awesome-theology",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "academia",
+              "awesome",
+              "awesome-lists",
+              "catholicism",
+              "scholarship",
+              "theology"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1092,12 +1743,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "list of liturgical calendar applications and libraries",
+            "homepage": null,
             "id": 102901601,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-10-11T10:24:02Z",
+            "open_issues": 3,
             "owner": "calendarium-romanum",
             "repo": "awesome-church-calendar",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "awesome-list",
+              "calendar",
+              "church",
+              "liturgy"
+            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1108,12 +1769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 136671037,
             "language": null,
+            "license": null,
             "last_commit": "2018-09-26T18:54:40Z",
+            "open_issues": 2,
             "owner": "awesome-bible",
             "repo": "awesome-bible.github.io",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         }
@@ -1122,15 +1788,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:29:49.283Z",
+    "last_updated": "2026-08-29T04:45:32.860Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome open-source Catholic projects, libraries and software",
+      "homepage": null,
       "id": 234456827,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-26T17:17:02Z",
+      "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 335
+      "stars": 335,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "catholic",
+        "catholicism",
+        "christian",
+        "christianity",
+        "hacktoberfest"
+      ]
     },
     "original_repository_sha": "932f0851b85e744506d297c5fc204f6cb30cd590",
     "enhanced_repository": "enhansome/enhansome-catholic",
