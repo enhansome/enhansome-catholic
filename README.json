@@ -126,11 +126,11 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T01:17:31Z",
+            "last_commit": "2026-08-29T14:12:04Z",
             "open_issues": 29,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "api",
               "calendar",
@@ -1126,8 +1126,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:04:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T07:33:59Z",
+            "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 463,
@@ -1788,7 +1788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:32.860Z",
+    "last_updated": "2026-08-29T15:44:47.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
