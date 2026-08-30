@@ -126,8 +126,8 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T14:12:04Z",
-            "open_issues": 29,
+            "last_commit": "2026-08-30T14:26:19Z",
+            "open_issues": 33,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 102,
@@ -332,7 +332,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T02:06:22Z",
+            "last_commit": "2026-08-30T02:24:58Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -667,8 +667,8 @@
             "id": 22242102,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:18:44Z",
-            "open_issues": 82,
+            "last_commit": "2026-08-30T03:42:33Z",
+            "open_issues": 86,
             "owner": "romcal",
             "repo": "romcal",
             "stars": 138,
@@ -1126,7 +1126,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-08-29T07:33:59Z",
+            "last_commit": "2026-08-29T23:40:17Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1178,7 +1178,7 @@
             "open_issues": 1,
             "owner": "mmolenda",
             "repo": "missalemeum",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -1788,7 +1788,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:44:47.280Z",
+    "last_updated": "2026-08-30T15:26:50.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
