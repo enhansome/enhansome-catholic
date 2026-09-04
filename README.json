@@ -74,7 +74,7 @@
             "open_issues": 6,
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 213,
+            "stars": 215,
             "topics": [
               "catholic",
               "catholicism",
@@ -126,8 +126,8 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T13:17:40Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-03T22:23:56Z",
+            "open_issues": 35,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 102,
@@ -332,7 +332,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T01:57:11Z",
+            "last_commit": "2026-09-04T01:50:05Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -409,7 +409,7 @@
             "open_issues": 104,
             "owner": "gregorio-project",
             "repo": "gregorio",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "cultural-heritage",
               "music-notation",
@@ -1147,7 +1147,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-03T14:50:23Z",
+            "last_commit": "2026-09-03T18:11:04Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1809,7 +1809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:09:03.147Z",
+    "last_updated": "2026-09-04T15:05:05.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1817,11 +1817,11 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-02T04:08:48Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-04T02:25:02Z",
+      "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 336,
+      "stars": 337,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1832,7 +1832,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "df9ad000cbfb40b2b092cb149147a82d6cf3e911",
+    "original_repository_sha": "1064b4dd216ee985f4fb452799946c8a2f15e36e",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
