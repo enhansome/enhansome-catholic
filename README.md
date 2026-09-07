@@ -33,7 +33,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) ⭐ 12 | 🐛 3 | 🌐 PHP | 📅 2018-05-28 - Get mass time in your country.
 * [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-18 - Comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2025-09-03 - Help people overcome their problems with catholic and secular motivational phrases.
-* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-06 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
+* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-07 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
 * [caminho-api](https://github.com/ElderFausto/caminho-api) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-10-22 - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
 * [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
@@ -96,9 +96,9 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 466 | 🐛 0 | 🌐 HTML | 📅 2026-09-06 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 467 | 🐛 0 | 🌐 HTML | 📅 2026-09-07 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 234 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
-* [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 120 | 🐛 4 | 🌐 Python | 📅 2026-09-03 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
+* [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2026-09-07 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 29 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-11 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [Catechism](https://github.com/nossbigg/catechism) ⭐ 25 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-04 -  The Catechism of the Catholic Church, modernised ⭐️⛪️.
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) ⭐ 13 | 🐛 1 | 🌐 HTML | 📅 2024-04-09 - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
@@ -140,4 +140,4 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

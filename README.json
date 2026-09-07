@@ -332,7 +332,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T01:54:44Z",
+            "last_commit": "2026-09-07T00:39:40Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -1147,11 +1147,11 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-06T02:10:59Z",
+            "last_commit": "2026-09-07T10:26:18Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "breviary",
               "catholic",
@@ -1195,8 +1195,8 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:12:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-07T12:59:10Z",
+            "open_issues": 1,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 120,
@@ -1809,7 +1809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:21:50.804Z",
+    "last_updated": "2026-09-07T16:37:47.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
