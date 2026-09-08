@@ -332,7 +332,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T00:39:40Z",
+            "last_commit": "2026-09-08T03:00:15Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -409,7 +409,7 @@
             "open_issues": 104,
             "owner": "gregorio-project",
             "repo": "gregorio",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "cultural-heritage",
               "music-notation",
@@ -1147,7 +1147,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:26:18Z",
+            "last_commit": "2026-09-08T13:03:00Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1809,7 +1809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:37:47.918Z",
+    "last_updated": "2026-09-08T15:15:52.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
