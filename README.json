@@ -332,7 +332,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T01:46:55Z",
+            "last_commit": "2026-09-14T01:41:59Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -1147,8 +1147,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-13T00:53:28Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-14T10:30:40Z",
+            "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 468,
@@ -1195,8 +1195,8 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T02:52:33Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-14T09:22:16Z",
+            "open_issues": 3,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 121,
@@ -1622,7 +1622,7 @@
             "last_commit": "2025-06-16T12:28:17Z",
             "open_issues": 0,
             "owner": "port19x",
-            "repo": "StMichaelChaplet",
+            "repo": "chapletofsaintmichael.com",
             "stars": 2,
             "topics": [
               "catholic",
@@ -1809,7 +1809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:00:52.460Z",
+    "last_updated": "2026-09-14T17:01:54.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1817,7 +1817,7 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-04T02:25:02Z",
+      "last_commit": "2026-09-14T02:24:45Z",
       "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
@@ -1832,7 +1832,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "1064b4dd216ee985f4fb452799946c8a2f15e36e",
+    "original_repository_sha": "f4b70e5be812e35f4dc1c8d84b1b3867d0e65e5d",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
