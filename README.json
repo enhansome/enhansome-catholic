@@ -47,7 +47,7 @@
             "open_issues": 4,
             "owner": "sf17490",
             "repo": "london-confessions",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -74,7 +74,7 @@
             "open_issues": 6,
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "catholic",
               "catholicism",
@@ -104,7 +104,7 @@
             "open_issues": 12,
             "owner": "igneus",
             "repo": "church-calendar-api",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "api",
               "calendar",
@@ -126,8 +126,8 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T03:16:59Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-21T13:48:11Z",
+            "open_issues": 38,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 104,
@@ -322,6 +322,36 @@
         },
         {
           "node_type": "item",
+          "title": "caminho-api",
+          "description": "A public API, built with Python and FastAPI, that serves the 999 points of the book \"The Way\" by Saint Josemaria Escrivá in portuguese.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "✝️ A high-performance FastAPI API that serves the 999 points of 'The Way', pre-collected via web scraping with Python, Selenium & BeautifulSoup.",
+            "homepage": null,
+            "id": 1081460035,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-10-22T22:14:43Z",
+            "open_issues": 0,
+            "owner": "ElderFausto",
+            "repo": "caminho-api",
+            "stars": 2,
+            "topics": [
+              "automation",
+              "beatifulsoup",
+              "fastapi",
+              "json",
+              "python",
+              "python3",
+              "selenium",
+              "webscraping"
+            ]
+          },
+          "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
           "title": "lumen-impulse",
           "description": "API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.",
           "children": [],
@@ -332,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T01:52:41Z",
+            "last_commit": "2026-09-21T01:40:55Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -356,36 +386,6 @@
             ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
-        },
-        {
-          "node_type": "item",
-          "title": "caminho-api",
-          "description": "A public API, built with Python and FastAPI, that serves the 999 points of the book \"The Way\" by Saint Josemaria Escrivá in portuguese.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "✝️ A high-performance FastAPI API that serves the 999 points of 'The Way', pre-collected via web scraping with Python, Selenium & BeautifulSoup.",
-            "homepage": null,
-            "id": 1081460035,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-10-22T22:14:43Z",
-            "open_issues": 0,
-            "owner": "ElderFausto",
-            "repo": "caminho-api",
-            "stars": 1,
-            "topics": [
-              "automation",
-              "beatifulsoup",
-              "fastapi",
-              "json",
-              "python",
-              "python3",
-              "selenium",
-              "webscraping"
-            ]
-          },
-          "first_seen": "2026-08-28T21:29:49.283Z"
         }
       ],
       "title": "APIs"
@@ -406,7 +406,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T19:09:30Z",
-            "open_issues": 104,
+            "open_issues": 106,
             "owner": "gregorio-project",
             "repo": "gregorio",
             "stars": 218,
@@ -562,7 +562,7 @@
             "open_issues": 0,
             "owner": "TeamDei",
             "repo": "tandem",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "academic",
               "analyses",
@@ -593,6 +593,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
+          "title": "avemarie",
+          "description": "Daily Rosary command line client, distributed as part of the Webservice::Rosary::API Perl module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Perl client for https://therosaryapi.cf and https://dailyrosary.cf/ +JMJ+ ",
+            "homepage": "https://metacpan.org/pod/Webservice::Rosary::API",
+            "id": 910268503,
+            "language": "Perl",
+            "license": null,
+            "last_commit": "2026-08-28T19:27:01Z",
+            "open_issues": 0,
+            "owner": "oodler577",
+            "repo": "p5-Webservice-Rosary-API",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-09-02T15:15:10.414Z"
         },
         {
           "node_type": "item",
@@ -630,27 +651,6 @@
         },
         {
           "node_type": "item",
-          "title": "avemarie",
-          "description": "Daily Rosary command line client, distributed as part of the Webservice::Rosary::API Perl module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Perl client for https://therosaryapi.cf and https://dailyrosary.cf/ +JMJ+ ",
-            "homepage": "https://metacpan.org/pod/Webservice::Rosary::API",
-            "id": 910268503,
-            "language": "Perl",
-            "license": null,
-            "last_commit": "2026-08-28T19:27:01Z",
-            "open_issues": 0,
-            "owner": "oodler577",
-            "repo": "p5-Webservice-Rosary-API",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-09-02T15:15:10.414Z"
-        },
-        {
-          "node_type": "item",
           "title": "christian-fortune",
           "description": "Classic command, with a Christian twist.",
           "children": [],
@@ -665,7 +665,7 @@
             "open_issues": 0,
             "owner": "ngorden",
             "repo": "christian-fortune",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -750,7 +750,7 @@
             "open_issues": 2,
             "owner": "nossbigg",
             "repo": "catechism-ccc-json",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "catechism",
               "catholic",
@@ -802,7 +802,7 @@
             "open_issues": 0,
             "owner": "mborders",
             "repo": "vulgata",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "bible",
               "catholic-bible",
@@ -832,7 +832,7 @@
             "open_issues": 0,
             "owner": "Medromenax",
             "repo": "pytholic",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -981,7 +981,7 @@
             "open_issues": 0,
             "owner": "chrisvo",
             "repo": "cardinals",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -1011,6 +1011,47 @@
             ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ecclesia-atlas",
+          "description": "Open, versioned, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil (dioceses, provinces, CNBB regionals).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dataset aberto e versionado da estrutura eclesiástica católica no Brasil — dioceses, arquidioceses, prelazias, regionais da CNBB e províncias, com proveniência por campo · Open, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil",
+            "homepage": null,
+            "id": 1338900519,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-18T15:38:44Z",
+            "open_issues": 2,
+            "owner": "gustavofsousa",
+            "repo": "ecclesia-atlas",
+            "stars": 0,
+            "topics": [
+              "brasil",
+              "brazil",
+              "catholic-church",
+              "catholicism",
+              "cnbb",
+              "dados-abertos",
+              "dataset",
+              "dioceses",
+              "ecclesiastical-provinces",
+              "gcatholic",
+              "geodata",
+              "igreja-catolica",
+              "json",
+              "json-schema",
+              "linked-data",
+              "open-data",
+              "provenance",
+              "religion",
+              "wikidata"
+            ]
+          },
+          "first_seen": "2026-09-21T17:09:52.551Z"
         }
       ],
       "title": "Data"
@@ -1034,7 +1075,7 @@
             "open_issues": 3,
             "owner": "geerlingguy",
             "repo": "Catholic-Diocese-App-Android",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "android",
               "app",
@@ -1147,8 +1188,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-20T14:46:05Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-21T14:14:08Z",
+            "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 469,
@@ -1195,7 +1236,7 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:23:59Z",
+            "last_commit": "2026-09-21T13:23:07Z",
             "open_issues": 1,
             "owner": "mmolenda",
             "repo": "missalemeum",
@@ -1270,7 +1311,7 @@
             "open_issues": 1,
             "owner": "kburchfiel",
             "repo": "us_diocese_mapper",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "catholicism",
               "folium",
@@ -1333,6 +1374,32 @@
         },
         {
           "node_type": "item",
+          "title": "random-bible-verses",
+          "description": "Requests and displays random passages from a Bible api.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":church: Requests and displays random passages from a Bible api.",
+            "homepage": null,
+            "id": 280881962,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2020-11-24T17:06:02Z",
+            "open_issues": 0,
+            "owner": "rat9615",
+            "repo": "random-bible-verses",
+            "stars": 9,
+            "topics": [
+              "bible",
+              "bible-verse",
+              "reactjs",
+              "tailwindcss"
+            ]
+          },
+          "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
           "title": "Catholic Daily Readings",
           "description": "Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.",
           "children": [],
@@ -1349,32 +1416,6 @@
             "repo": "CatholicDaily",
             "stars": 8,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:29:49.283Z"
-        },
-        {
-          "node_type": "item",
-          "title": "random-bible-verses",
-          "description": "Requests and displays random passages from a Bible api.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":church: Requests and displays random passages from a Bible api.",
-            "homepage": null,
-            "id": 280881962,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2020-11-24T17:06:02Z",
-            "open_issues": 0,
-            "owner": "rat9615",
-            "repo": "random-bible-verses",
-            "stars": 8,
-            "topics": [
-              "bible",
-              "bible-verse",
-              "reactjs",
-              "tailwindcss"
-            ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
         },
@@ -1785,6 +1826,30 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome Catholic (CatholicOS)",
+          "description": "A curated list of Catholic technology projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of Catholic technology projects",
+            "homepage": null,
+            "id": 1078346830,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-21T13:14:53Z",
+            "open_issues": 1,
+            "owner": "CatholicOS",
+            "repo": "awesome-catholic",
+            "stars": 31,
+            "topics": [
+              "awesome-list",
+              "catholic"
+            ]
+          },
+          "first_seen": "2026-09-21T17:09:52.551Z"
+        },
+        {
+          "node_type": "item",
           "title": "Awesome Bible",
           "description": "A curated list of awesome resources and websites about the Bible and topics related to it.",
           "children": [],
@@ -1809,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:48:39.424Z",
+    "last_updated": "2026-09-21T17:09:52.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1817,11 +1882,11 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T02:24:45Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-20T18:13:11Z",
+      "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 342,
+      "stars": 343,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1832,7 +1897,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "f4b70e5be812e35f4dc1c8d84b1b3867d0e65e5d",
+    "original_repository_sha": "6f5588591b886f43c48616c8e7f9c6092d24b641",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
