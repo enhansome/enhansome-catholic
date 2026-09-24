@@ -34,7 +34,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-18 - Comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2025-09-03 - Help people overcome their problems with catholic and secular motivational phrases.
 * [caminho-api](https://github.com/ElderFausto/caminho-api) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-10-22 - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese.
-* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-23 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
+* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-24 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
 * [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
 
@@ -70,7 +70,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [focus-study](https://github.com/rvbcldud/focus-study) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2024-08-12 - A collection of FOCUS Bible studies in booklet format.
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-04 - Catechism of St. Pius X frontend.
 * [cardinals](https://github.com/ChrisVo/cardinals) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-03 - The list of all Roman Catholic Cardinals in json format.
-* [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-23 - Open, versioned, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil (dioceses, provinces, CNBB regionals).
+* [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - Open, versioned, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil (dioceses, provinces, CNBB regionals).
 * [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) ⭐ 1 | 🐛 0 | 📅 2025-07-03 - Baltimore Catechism No. 2 in JSON.
 * [liberius.net](http://liberius.net/) - Catholic books, articles and documents.
 * [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary\&panel=book_list) - Collection of Catholic e-books.
@@ -97,7 +97,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 469 | 🐛 0 | 🌐 HTML | 📅 2026-09-22 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 469 | 🐛 0 | 🌐 HTML | 📅 2026-09-24 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 234 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-09-21 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 29 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-11 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
@@ -142,4 +142,4 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
