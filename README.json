@@ -357,12 +357,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Daily Catholic gospel reflections in German, English, and Polish. AI-generated nightly via GitHub Actions, served as static JSON for any client to consume. Powers the Lumen examen app.",
+            "description": "Daily Catholic gospel readings in six languages (de, en, es, fr, it, pl), fetched nightly via GitHub Actions and served as static JSON. No AI: since 01.06.2026 the pipeline ships the gospel text only. Powers the Lumen examen app.",
             "homepage": "https://lumenexamen.com",
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T01:49:22Z",
+            "last_commit": "2026-09-25T06:26:33Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -1188,7 +1188,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-24T13:00:38Z",
+            "last_commit": "2026-09-25T13:40:49Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:53:32.354Z",
+    "last_updated": "2026-09-25T15:54:28.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
