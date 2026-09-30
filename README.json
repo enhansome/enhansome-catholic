@@ -126,8 +126,8 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T16:51:32Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-30T08:55:18Z",
+            "open_issues": 39,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 104,
@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T01:53:23Z",
+            "last_commit": "2026-09-30T02:09:47Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -1189,7 +1189,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-09-29T10:57:29Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 469,
@@ -1814,7 +1814,7 @@
             "open_issues": 2,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:58:32.977Z",
+    "last_updated": "2026-09-30T16:58:22.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
