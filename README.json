@@ -1188,7 +1188,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:24:45Z",
+            "last_commit": "2026-10-03T11:24:30Z",
             "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:35.523Z",
+    "last_updated": "2026-10-03T15:14:14.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
