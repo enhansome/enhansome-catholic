@@ -31,10 +31,10 @@ A curated list of awesome Catholic projects, libraries and software.
 * [tamil-bible-database](https://github.com/jayarathina/Tamil-Bible-Database) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2023-12-29 - Tamil Bible Database in MySQL with PHP API.
 * [sanctum-ipsum](https://github.com/graysonhicks/sanctum-ipsum) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-21 - The holiest lorem ipsum generator on the internet. Use online, or with API.
 * [geomesse-api](https://github.com/carpedeum-fr/geomesse-api) ⭐ 12 | 🐛 3 | 🌐 PHP | 📅 2018-05-28 - Get mass time in your country.
-* [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-18 - Comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources.
+* [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-18 - Comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2025-09-03 - Help people overcome their problems with catholic and secular motivational phrases.
 * [caminho-api](https://github.com/ElderFausto/caminho-api) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-10-22 - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese.
-* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-03 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
+* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-04 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
 * [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
 
@@ -97,10 +97,10 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 469 | 🐛 1 | 🌐 HTML | 📅 2026-10-03 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 470 | 🐛 0 | 🌐 HTML | 📅 2026-10-04 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 234 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 121 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
-* [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 29 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
+* [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 30 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [Catechism](https://github.com/nossbigg/catechism) ⭐ 28 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-04 -  The Catechism of the Catholic Church, modernised ⭐️⛪️.
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) ⭐ 14 | 🐛 1 | 🌐 HTML | 📅 2024-04-09 - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
 * [missal.io](https://github.com/benyanke/missal.io) ⭐ 12 | 🐛 4 | 🌐 HTML | 📅 2018-12-30 - A Catholic Sunday hand missal web app for the Traditional Latin Mass.
@@ -108,7 +108,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [random-bible-verses](https://github.com/rat9615/random-bible-verses/) ⭐ 9 | 🐛 0 | 🌐 CSS | 📅 2020-11-24 - Requests and displays random passages from a Bible api.
 * [Catholic Daily Readings](https://github.com/tbaba007/CatholicDaily) ⭐ 8 | 🐛 18 | 🌐 JavaScript | 📅 2023-01-06 - Fetches Daily Mass Readings from EWTN API, Daily Catholic Prayers and Know your Faith; includes Catholic prayers.
 * [Pray the Rosary](https://github.com/marchiartur/pray-the-rosary) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2023-06-11 - A Progressive Web App designed to help Roman Catholics pray the Rosary. Demo at <https://prayrosary.netlify.app/>.
-* [Rosarium](https://github.com/leozamboni/Rosarium) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-20 - Web application designed to help Catholics pray the Holy Rosary in Latin in an interactive and immersive way through 3D models of Catholic churches generated through photogrammetry. Demo: <https://leozamboni.github.io/Rosarium/>.
+* [Rosarium](https://github.com/leozamboni/Rosarium) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-20 - Web application designed to help Catholics pray the Holy Rosary in Latin in an interactive and immersive way through 3D models of Catholic churches generated through photogrammetry. Demo: <https://leozamboni.github.io/Rosarium/>.
 * [Domus](https://github.com/leozamboni/Domus) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-11 - Web application designed to visit churches around the world through 3D models generated by photogrammetry. Demo: <https://leozamboni.github.io/Domus/>.
 * [Citation Generator](https://github.com/matefs/Citation-Generator) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2023-01-21 - Create quotes from Saints, the Bible or any based author.
 * [Ember Days](https://github.com/saint-isidore-guild/ember-days) ⭐ 4 | 🐛 18 | 🌐 JavaScript | 📅 2023-02-20 - Display the Ember Days for a given year.
@@ -122,6 +122,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [doctors of the church](https://github.com/masaharumori7/doctors-of-the-church) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2025-07-31 - A gallary list of all 37 Doctors of the Church with descriptions and notable works.
 * [Index Librorum Prohibitorum](https://github.com/leozamboni/index-librorum-prohibitorum) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2026-06-14 - Site to consult the Index Librorum Prohibitorum, books a Catholic should read with caution. Demo at <https://leozamboni.github.io/index-librorum-prohibitorum/>.
 * [Easter dates](https://easter-dates.gavinr.com/) - Distribution of Easter per Date Across Years, visualized.
+* [Catholic Circle](https://catholiccircle.org) - Free map of Mass, confession and adoration times for every Catholic parish in Florida, in English and Spanish.
 * [GregoSearch](https://busca.liturgiacantada.com.br) - A modern and powerful search interface for GregoBase, one of the largest databases of Gregorian chant scores.
 * [JGABC Chant Tools](https://bbloomf.github.io/jgabc/transcriber.html) - Tools for gregorian chants, including mass propers.
 * [Bible Daily (bibdle)](https://bibdle.com/) - A daily bible game. Like Wordle, but Bible-themed.
@@ -142,4 +143,4 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
