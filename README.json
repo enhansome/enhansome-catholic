@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "CatholicOS",
             "repo": "liturgical-calendar-mcp",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "catholic",
               "catholic-liturgy",
@@ -74,7 +74,7 @@
             "open_issues": 7,
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "catholic",
               "catholicism",
@@ -126,8 +126,8 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T21:55:08Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-14T19:59:16Z",
+            "open_issues": 44,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
             "stars": 109,
@@ -182,6 +182,36 @@
         },
         {
           "node_type": "item",
+          "title": "sanctum-ipsum",
+          "description": "The holiest lorem ipsum generator on the internet. Use online, or with API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The holiest lorem ipsum generator on the internet.  Use online, or with the API.",
+            "homepage": "https://graysonhicks.github.io/sanctum-ipsum/",
+            "id": 88164368,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2023-11-21T19:02:14Z",
+            "open_issues": 1,
+            "owner": "graysonhicks",
+            "repo": "sanctum-ipsum",
+            "stars": 16,
+            "topics": [
+              "catholic",
+              "christian",
+              "create-react-app",
+              "javascript",
+              "lorem-ipsum",
+              "node",
+              "react",
+              "reactjs"
+            ]
+          },
+          "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
           "title": "tamil-bible-database",
           "description": "Tamil Bible Database in MySQL with PHP API.",
           "children": [],
@@ -204,36 +234,6 @@
               "tamil",
               "tamil-bible-database",
               "tamil-catholic"
-            ]
-          },
-          "first_seen": "2026-08-28T21:29:49.283Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sanctum-ipsum",
-          "description": "The holiest lorem ipsum generator on the internet. Use online, or with API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The holiest lorem ipsum generator on the internet.  Use online, or with the API.",
-            "homepage": "https://graysonhicks.github.io/sanctum-ipsum/",
-            "id": 88164368,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2023-11-21T19:02:14Z",
-            "open_issues": 1,
-            "owner": "graysonhicks",
-            "repo": "sanctum-ipsum",
-            "stars": 15,
-            "topics": [
-              "catholic",
-              "christian",
-              "create-react-app",
-              "javascript",
-              "lorem-ipsum",
-              "node",
-              "react",
-              "reactjs"
             ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T04:53:23Z",
+            "last_commit": "2026-10-15T02:15:14Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -461,7 +461,7 @@
             "open_issues": 1,
             "owner": "LukeSmithxyz",
             "repo": "vul",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -998,8 +998,8 @@
             "id": 1338900519,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T19:56:47Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-15T15:34:35Z",
+            "open_issues": 1,
             "owner": "gustavofsousa",
             "repo": "ecclesia-atlas",
             "stars": 1,
@@ -1188,8 +1188,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-14T10:42:27Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-15T10:44:00Z",
+            "open_issues": 2,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 472,
@@ -1219,7 +1219,7 @@
             "open_issues": 1,
             "owner": "dssjon",
             "repo": "biblos",
-            "stars": 235,
+            "stars": 236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
@@ -1814,7 +1814,7 @@
             "open_issues": 1,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:56:33.452Z",
+    "last_updated": "2026-10-15T15:42:17.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1886,7 +1886,7 @@
       "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 349,
+      "stars": 350,
       "topics": [
         "awesome",
         "awesome-list",
