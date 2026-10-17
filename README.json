@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T01:59:24Z",
+            "last_commit": "2026-10-17T04:35:50Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -688,11 +688,11 @@
             "id": 22242102,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T00:26:41Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-17T00:34:17Z",
+            "open_issues": 91,
             "owner": "romcal",
             "repo": "romcal",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "calendar",
               "calendar-api",
@@ -1188,8 +1188,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-16T13:13:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-17T14:11:26Z",
+            "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 473,
@@ -1814,7 +1814,7 @@
             "open_issues": 1,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:29:09.777Z",
+    "last_updated": "2026-10-17T14:21:46.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1886,7 +1886,7 @@
       "open_issues": 1,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 350,
+      "stars": 351,
       "topics": [
         "awesome",
         "awesome-list",
