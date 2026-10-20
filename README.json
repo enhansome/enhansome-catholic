@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T01:56:25Z",
+            "last_commit": "2026-10-20T02:43:00Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -750,7 +750,7 @@
             "open_issues": 2,
             "owner": "nossbigg",
             "repo": "catechism-ccc-json",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "catechism",
               "catholic",
@@ -1188,8 +1188,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-19T17:19:17Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-20T12:34:23Z",
+            "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 474,
@@ -1814,7 +1814,7 @@
             "open_issues": 1,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:42:35.812Z",
+    "last_updated": "2026-10-20T15:48:30.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
