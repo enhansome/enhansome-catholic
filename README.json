@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T02:03:07Z",
+            "last_commit": "2026-10-22T02:06:42Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -688,11 +688,11 @@
             "id": 22242102,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T02:03:10Z",
+            "last_commit": "2026-10-22T14:38:07Z",
             "open_issues": 91,
             "owner": "romcal",
             "repo": "romcal",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "calendar",
               "calendar-api",
@@ -1188,11 +1188,11 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-21T09:01:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T15:19:37Z",
+            "open_issues": 3,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "breviary",
               "catholic",
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T16:04:16.441Z",
+    "last_updated": "2026-10-22T15:59:29.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1882,11 +1882,11 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-17T21:59:55Z",
+      "last_commit": "2026-10-22T03:28:01Z",
       "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 352,
+      "stars": 353,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1897,7 +1897,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "6800976bb98e01c2a6ca5566f9b4008a48ad924e",
+    "original_repository_sha": "4cba665a1796ea3cb3ba1dc9cb2702901b67ddbd",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
