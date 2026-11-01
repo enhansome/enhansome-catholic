@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T03:30:42Z",
+            "last_commit": "2026-11-01T04:27:18Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -775,7 +775,7 @@
             "open_issues": 3,
             "owner": "aseemsavio",
             "repo": "catholicism-in-json",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "catholic",
               "catholicism",
@@ -1002,7 +1002,7 @@
             "open_issues": 0,
             "owner": "gustavofsousa",
             "repo": "ecclesia-atlas",
-            "stars": 2,
+            "stars": 1,
             "topics": [
               "brasil",
               "brazil",
@@ -1188,11 +1188,11 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-30T10:03:02Z",
+            "last_commit": "2026-11-01T16:09:51Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "breviary",
               "catholic",
@@ -1236,8 +1236,8 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:18:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-31T17:33:58Z",
+            "open_issues": 2,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 121,
@@ -1554,7 +1554,7 @@
             "license": null,
             "last_commit": "2026-08-31T16:14:37Z",
             "open_issues": 19,
-            "owner": "anna-wro",
+            "owner": "ahsmutek",
             "repo": "rkk",
             "stars": 4,
             "topics": [
@@ -1814,7 +1814,7 @@
             "open_issues": 0,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1874,7 +1874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T16:16:31.369Z",
+    "last_updated": "2026-11-01T17:13:36.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",

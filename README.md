@@ -34,7 +34,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-18 - Comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2025-09-03 - Help people overcome their problems with catholic and secular motivational phrases.
 * [caminho-api](https://github.com/ElderFausto/caminho-api) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-10-22 - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese.
-* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
+* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-01 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
 * [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
 
@@ -61,7 +61,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [romcal](https://github.com/romcal/romcal) ⭐ 146 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-31 - The Liturgical Calendar used by the Roman Rite (Western Church) for Node JS v6 and above.
 * [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) ⭐ 93 | 🐛 0 | 🌐 HTML | 📅 2026-04-19 - The full works of St. Thomas Aquinas.
 * [catechism-ccc-json](https://github.com/nossbigg/catechism-ccc-json) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2022-12-08 - The Catechism of the Catholic Chruch in JSON.
-* [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2022-09-24 - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
+* [catholicism-in-json](https://github.com/aseemsavio/catholicism-in-json) ⭐ 35 | 🐛 3 | 🌐 Python | 📅 2022-09-24 - The Catechism of the Catholic Church, The Canon Law, and The General Instruction of The Roman Missal in usable JSON format.
 * [vulgata](https://github.com/borderstech/vulgata) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2020-08-18 - The Holy Bible with both the Douay-Rheims English and Clementina Vulgata Latin texts.
 * [pytholic](https://github.com/Medromenax/pytholic) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-03-28 - Catholic-themed python package.
 * [graduale-romanum-1908](https://github.com/ahinkley/graduale-romanum-1908) ⭐ 12 | 🐛 0 | 🌐 TeX | 📅 2015-10-02 - 1908 Vatican Edition Graduale Romanum retypeset in Gregorio 4.
@@ -70,7 +70,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [focus-study](https://github.com/rvbcldud/focus-study) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2024-08-12 - A collection of FOCUS Bible studies in booklet format.
 * [St. Pius X Catechism](https://github.com/mattwong97/catechism-st-pius-x-frontend) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-04 - Catechism of St. Pius X frontend.
 * [cardinals](https://github.com/ChrisVo/cardinals) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - The list of all Roman Catholic Cardinals in json format.
-* [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Open, versioned, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil (dioceses, provinces, CNBB regionals).
+* [ecclesia-atlas](https://github.com/gustavofsousa/ecclesia-atlas) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Open, versioned, field-sourced dataset of the Catholic Church's ecclesiastical structure in Brazil (dioceses, provinces, CNBB regionals).
 * [Baltimore Catechism #2](https://github.com/mattwong97/baltimore-catechism-no-2) ⭐ 1 | 🐛 0 | 📅 2025-07-03 - Baltimore Catechism No. 2 in JSON.
 * [liberius.net](http://liberius.net/) - Catholic books, articles and documents.
 * [St. Isidore e-book library](https://isidore.co/calibre/#library_id=CalibreLibrary\&panel=book_list) - Collection of Catholic e-books.
@@ -97,9 +97,9 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 478 | 🐛 0 | 🌐 HTML | 📅 2026-10-30 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 479 | 🐛 0 | 🌐 HTML | 📅 2026-11-01 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 237 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
-* [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-10-26 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
+* [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 121 | 🐛 2 | 🌐 Python | 📅 2026-10-31 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 30 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
 * [Catechism](https://github.com/nossbigg/catechism) ⭐ 28 | 🐛 24 | 🌐 TypeScript | 📅 2023-01-04 -  The Catechism of the Catholic Church, modernised ⭐️⛪️.
 * [US Diocese Mapper](https://github.com/kburchfiel/us_diocese_mapper/) ⭐ 14 | 🐛 1 | 🌐 HTML | 📅 2024-04-09 - Create interactive and static maps of Latin Rite Catholic dioceses, provinces, and cathedrals within the United States.
@@ -137,10 +137,10 @@ A curated list of awesome Catholic projects, libraries and software.
 ## Related-Awesome-Lists
 
 * [Awesome Theology](https://github.com/historical-theology/awesome-theology) ⭐ 71 | 🐛 0 | 📅 2026-10-29 - A curated list of open source software for Catholic theology.
-* [Awesome Catholic (CatholicOS)](https://github.com/CatholicOS/awesome-catholic) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - A curated list of Catholic technology projects.
+* [Awesome Catholic (CatholicOS)](https://github.com/CatholicOS/awesome-catholic) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - A curated list of Catholic technology projects.
 * [Awesome Church Calendar](https://github.com/calendarium-romanum/awesome-church-calendar) ⭐ 31 | 🐛 4 | 📅 2022-10-11 - List of software related to liturgical calendar computations.
 * [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) ⭐ 16 | 🐛 6 | 📅 2026-09-09 - A curated list of awesome resources and websites about the Bible and topics related to it.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
