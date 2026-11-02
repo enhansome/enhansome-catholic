@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T04:27:18Z",
+            "last_commit": "2026-11-02T03:46:51Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -438,6 +438,37 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hours",
+          "description": "A native desktop reader for the Roman Catholic Liturgy of the Hours.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A native Rust app for the Liturgy of the Hours. Download offices, pray offline, and keep notes on your Mac.",
+            "homepage": "https://github.com/chrisvo/hours-rs/releases/latest",
+            "id": 1430662471,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-11-01T07:28:40Z",
+            "open_issues": 2,
+            "owner": "chrisvo",
+            "repo": "hours-rs",
+            "stars": 1,
+            "topics": [
+              "catholic",
+              "desktop-app",
+              "divine-office",
+              "egui",
+              "liturgy-of-the-hours",
+              "macos",
+              "offline",
+              "prayer",
+              "rust"
+            ]
+          },
+          "first_seen": "2026-11-02T20:51:38.849Z"
         }
       ],
       "title": "Apps"
@@ -688,8 +719,8 @@
             "id": 22242102,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T14:51:38Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-01T22:07:42Z",
+            "open_issues": 82,
             "owner": "romcal",
             "repo": "romcal",
             "stars": 146,
@@ -1154,8 +1185,8 @@
             "id": 75497053,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-31T04:43:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-02T16:54:38Z",
+            "open_issues": 6,
             "owner": "mftruso",
             "repo": "st-andrew-novena",
             "stars": 0,
@@ -1178,6 +1209,76 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Lectio.nvim",
+          "description": "Neovim plugin to practice lectio divina.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "NeoVim plugin to practice Lectio Divina",
+            "homepage": null,
+            "id": 890675666,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2024-11-19T02:06:39Z",
+            "open_issues": 0,
+            "owner": "ngorden",
+            "repo": "lectio.nvim",
+            "stars": 5,
+            "topics": [
+              "bible",
+              "catholic",
+              "catholicism",
+              "christianity",
+              "neovim-lua-plugin",
+              "neovim-plugin"
+            ]
+          },
+          "first_seen": "2026-11-02T20:51:38.849Z"
+        }
+      ],
+      "title": "Neovim-Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "omarchy-rosary-theme",
+          "description": "Sacred-art theme for Omarchy featuring 20 public-domain paintings that rotate daily with the mysteries of the Rosary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Rosary theme for Omarchy: 20 public-domain paintings, daily mystery rotation, crucifix cursor, and terminal rice",
+            "homepage": null,
+            "id": 1430088839,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T21:49:25Z",
+            "open_issues": 0,
+            "owner": "whelanh",
+            "repo": "omarchy-rosary-theme",
+            "stars": 2,
+            "topics": [
+              "catholic",
+              "cursor-theme",
+              "hyprland",
+              "linux-desktop",
+              "omarchy",
+              "omarchy-theme",
+              "rosary",
+              "wallpaper"
+            ]
+          },
+          "first_seen": "2026-11-02T20:51:38.849Z"
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "divinum-officium",
           "description": "The traditional divine office.",
           "children": [],
@@ -1188,8 +1289,8 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-01T16:09:51Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-02T19:17:20Z",
+            "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
             "stars": 479,
@@ -1236,8 +1337,8 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T17:33:58Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T11:49:08Z",
+            "open_issues": 3,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 121,
@@ -1810,8 +1911,8 @@
             "id": 1078346830,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-29T21:01:40Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-02T13:43:26Z",
+            "open_issues": 1,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
             "stars": 38,
@@ -1874,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:13:36.673Z",
+    "last_updated": "2026-11-02T20:51:38.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1882,11 +1983,11 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-22T03:28:01Z",
+      "last_commit": "2026-11-02T04:37:45Z",
       "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 355,
+      "stars": 356,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1897,7 +1998,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "4cba665a1796ea3cb3ba1dc9cb2702901b67ddbd",
+    "original_repository_sha": "e7bf8003831e30b2ef0ea1cee9862cf1dffc7221",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
