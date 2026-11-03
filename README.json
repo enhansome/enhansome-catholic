@@ -74,7 +74,7 @@
             "open_issues": 9,
             "owner": "Dancrf",
             "repo": "liturgia-diaria",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "catholic",
               "catholicism",
@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T03:46:51Z",
+            "last_commit": "2026-11-03T03:20:26Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -409,7 +409,7 @@
             "open_issues": 106,
             "owner": "gregorio-project",
             "repo": "gregorio",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "cultural-heritage",
               "music-notation",
@@ -723,7 +723,7 @@
             "open_issues": 82,
             "owner": "romcal",
             "repo": "romcal",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "calendar",
               "calendar-api",
@@ -806,7 +806,7 @@
             "open_issues": 3,
             "owner": "aseemsavio",
             "repo": "catholicism-in-json",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "catholic",
               "catholicism",
@@ -1289,7 +1289,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-02T19:17:20Z",
+            "last_commit": "2026-11-03T16:33:16Z",
             "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:51:38.849Z",
+    "last_updated": "2026-11-03T18:37:56.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
