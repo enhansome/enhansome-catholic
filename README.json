@@ -104,7 +104,7 @@
             "open_issues": 12,
             "owner": "igneus",
             "repo": "church-calendar-api",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "api",
               "calendar",
@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T03:15:46Z",
+            "last_commit": "2026-11-07T03:27:06Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -719,7 +719,7 @@
             "id": 22242102,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T03:14:35Z",
+            "last_commit": "2026-11-07T01:22:46Z",
             "open_issues": 80,
             "owner": "romcal",
             "repo": "romcal",
@@ -1289,7 +1289,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-06T13:25:10Z",
+            "last_commit": "2026-11-07T15:08:14Z",
             "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1915,7 +1915,7 @@
             "open_issues": 1,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T18:20:07.092Z",
+    "last_updated": "2026-11-07T16:58:22.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1987,7 +1987,7 @@
       "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
-      "stars": 357,
+      "stars": 359,
       "topics": [
         "awesome",
         "awesome-list",
