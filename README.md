@@ -35,7 +35,7 @@ A curated list of awesome Catholic projects, libraries and software.
 * [The-Collection-of-Catholic-Prayers-API](https://github.com/erickouassi/The-Collection-of-Catholic-Prayers-Api) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-18 - Comprehensive REST API providing access to a wide collection of traditional Catholic prayers, devotions, and liturgical resources.
 * [MotivationalAPI](https://github.com/GomezMig03/MotivationalAPI) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2025-09-03 - Help people overcome their problems with catholic and secular motivational phrases.
 * [caminho-api](https://github.com/ElderFausto/caminho-api) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-10-22 - A public API, built with Python and FastAPI, that serves the 999 points of the book "The Way" by Saint Josemaria Escrivá in portuguese.
-* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-07 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
+* [lumen-impulse](https://github.com/michaelporwol/lumen-impulse) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-08 - API for Daily Catholic gospel reflections in German, English, and Polish, generated via GitHub Actions and Magisterium AI.
 * [AELF](https://api.aelf.org/) - A French API for the Liturgy of the Hours.
 * [matosSoaresBibliaApi](https://github.com/edsonbittencourt/matosSoaresBibliaApi) - API to access verses from the Vulgate Sisto-Clementina translated by Father Matos Soares into Portuguese.
 
@@ -103,7 +103,7 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ## Web-Apps
 
-* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 480 | 🐛 1 | 🌐 HTML | 📅 2026-11-07 - The traditional divine office.
+* [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) ⭐ 481 | 🐛 0 | 🌐 HTML | 📅 2026-11-08 - The traditional divine office.
 * [biblos.app](https://github.com/dssjon/biblos) ⭐ 237 | 🐛 1 | 🌐 Python | 📅 2024-08-28 - Semantic Bible Search and Multi-Layered Analysis. Demo at <https://www.biblos.app>.
 * [Missale Meum](https://github.com/mmolenda/missalemeum) ⭐ 121 | 🐛 3 | 🌐 Python | 📅 2026-11-02 - 1962 Roman Catholic Missal for the Traditional Latin Mass.
 * [Confessit](https://github.com/kas-catholic/confessit-web) ⭐ 30 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02 - A Progressive Web App designed to help Roman Catholics prepare for the sacrament of confession by examining their conscience.
@@ -149,4 +149,4 @@ A curated list of awesome Catholic projects, libraries and software.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
