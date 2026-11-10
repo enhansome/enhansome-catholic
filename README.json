@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T02:58:06Z",
+            "last_commit": "2026-11-10T03:20:53Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -409,7 +409,7 @@
             "open_issues": 106,
             "owner": "gregorio-project",
             "repo": "gregorio",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "cultural-heritage",
               "music-notation",
@@ -720,7 +720,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-07T23:58:34Z",
-            "open_issues": 81,
+            "open_issues": 83,
             "owner": "romcal",
             "repo": "romcal",
             "stars": 148,
@@ -781,7 +781,7 @@
             "open_issues": 2,
             "owner": "nossbigg",
             "repo": "catechism-ccc-json",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "catechism",
               "catholic",
@@ -806,7 +806,7 @@
             "open_issues": 3,
             "owner": "aseemsavio",
             "repo": "catholicism-in-json",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "catholic",
               "catholicism",
@@ -1289,11 +1289,11 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:05:54Z",
+            "last_commit": "2026-11-10T17:46:56Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "breviary",
               "catholic",
@@ -1337,8 +1337,8 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T12:18:34Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-10T15:46:32Z",
+            "open_issues": 1,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 121,
@@ -1887,7 +1887,7 @@
             "open_issues": 0,
             "owner": "historical-theology",
             "repo": "awesome-theology",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "academia",
               "awesome",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:36:53.147Z",
+    "last_updated": "2026-11-10T18:46:51.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
