@@ -126,7 +126,7 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T07:09:48Z",
+            "last_commit": "2026-11-12T00:11:25Z",
             "open_issues": 44,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T03:01:32Z",
+            "last_commit": "2026-11-12T03:47:11Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -1008,7 +1008,7 @@
             "id": 585430553,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:33:41Z",
+            "last_commit": "2026-11-12T06:00:57Z",
             "open_issues": 0,
             "owner": "chrisvo",
             "repo": "cardinals",
@@ -1289,11 +1289,11 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-11T17:19:22Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-12T16:10:44Z",
+            "open_issues": 1,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "breviary",
               "catholic",
@@ -1915,7 +1915,7 @@
             "open_issues": 1,
             "owner": "CatholicOS",
             "repo": "awesome-catholic",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "awesome-list",
               "catholic"
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:50:44.659Z",
+    "last_updated": "2026-11-12T19:04:19.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
