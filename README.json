@@ -126,7 +126,7 @@
             "id": 98356974,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T16:51:15Z",
+            "last_commit": "2026-11-22T05:30:04Z",
             "open_issues": 47,
             "owner": "Liturgical-Calendar",
             "repo": "LiturgicalCalendarAPI",
@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T04:06:57Z",
+            "last_commit": "2026-11-22T02:49:30Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -720,7 +720,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T00:03:38Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "romcal",
             "repo": "romcal",
             "stars": 148,
@@ -968,6 +968,36 @@
             ]
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
+          "title": "bible-data",
+          "description": "Open data with 378 saints and their Western and Orthodox feast days, Easter dates from 1900 to 2099, and Bible places in 11 languages, as CSV and JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open data behind Christian Pure's Bible tools: Paul's journeys, saints, denominations and Easter dates",
+            "homepage": "https://christianpure.com/",
+            "id": 1462591975,
+            "language": null,
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-11-22T11:31:11Z",
+            "open_issues": 1,
+            "owner": "christianpure",
+            "repo": "bible-data",
+            "stars": 3,
+            "topics": [
+              "bible",
+              "christianity",
+              "church-history",
+              "dataset",
+              "easter",
+              "geojson",
+              "open-data",
+              "saints"
+            ]
+          },
+          "first_seen": "2026-11-22T18:37:28.236Z"
         },
         {
           "node_type": "item",
@@ -1289,7 +1319,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-21T17:55:46Z",
+            "last_commit": "2026-11-22T15:26:04Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1338,7 +1368,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T04:13:23Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 121,
@@ -1975,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:09:30.405Z",
+    "last_updated": "2026-11-22T18:37:28.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -1983,8 +2013,8 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-02T04:37:45Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-21T21:25:10Z",
+      "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
       "stars": 361,
@@ -1998,7 +2028,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "e7bf8003831e30b2ef0ea1cee9862cf1dffc7221",
+    "original_repository_sha": "9fcb734c9c3aa7063ab5849864e2d45767f4e56d",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
