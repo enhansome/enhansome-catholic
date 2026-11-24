@@ -362,7 +362,7 @@
             "id": 1159221726,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T03:28:46Z",
+            "last_commit": "2026-11-24T03:08:19Z",
             "open_issues": 0,
             "owner": "michaelporwol",
             "repo": "lumen-impulse",
@@ -406,7 +406,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T19:09:30Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "gregorio-project",
             "repo": "gregorio",
             "stars": 224,
@@ -720,7 +720,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T00:03:38Z",
-            "open_issues": 86,
+            "open_issues": 88,
             "owner": "romcal",
             "repo": "romcal",
             "stars": 149,
@@ -1319,7 +1319,7 @@
             "id": 33470245,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-23T12:22:05Z",
+            "last_commit": "2026-11-24T16:44:57Z",
             "open_issues": 0,
             "owner": "DivinumOfficium",
             "repo": "divinum-officium",
@@ -1367,8 +1367,8 @@
             "id": 30668978,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T13:51:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-24T09:03:01Z",
+            "open_issues": 1,
             "owner": "mmolenda",
             "repo": "missalemeum",
             "stars": 121,
@@ -1894,6 +1894,69 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:29:49.283Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fundamentals of Catholic Dogma by Ludwig Ott",
+          "description": "Website for the Fundamentals of Catholic Dogma by Ludwig Ott.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fundamentals of Catholic Dogma by Ludwig Ott",
+            "homepage": "https://ott-fundamentals.onrender.com",
+            "id": 1461575595,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-11-20T15:26:54Z",
+            "open_issues": 0,
+            "owner": "christopherlam888",
+            "repo": "ott-fundamentals",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-24T21:28:01.290Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Meditations of St. Thomas Aquinas",
+          "description": "Website for the Meditations of St. Thomas Aquinas, O.P. for Every Day, adapted from the Latin of Father Mezard, O.P. by Father E. C. McEniry, O.P.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Meditations of St. Thomas Aquinas, O.P. for Every Day, adapted from the Latin of Father Mezard, O.P. by Father E. C. McEniry, O.P",
+            "homepage": "https://st-thomas-meditations.onrender.com/",
+            "id": 1454017855,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-11-11T19:49:05Z",
+            "open_issues": 0,
+            "owner": "christopherlam888",
+            "repo": "st-thomas-meditations",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-24T21:28:01.290Z"
+        },
+        {
+          "node_type": "item",
+          "title": "iBreviary Web Frontend",
+          "description": "Unofficial web frontend for the iBreviary app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unofficial web frontend for the iBreviary app",
+            "homepage": "https://ibreviary-web.onrender.com/",
+            "id": 1454513733,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-11-11T22:27:38Z",
+            "open_issues": 0,
+            "owner": "christopherlam888",
+            "repo": "ibreviary-frontend",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-24T21:28:01.290Z"
         }
       ],
       "title": "Web-Apps"
@@ -2005,7 +2068,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:52:34.088Z",
+    "last_updated": "2026-11-24T21:28:01.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome open-source Catholic projects, libraries and software",
@@ -2013,8 +2076,8 @@
       "id": 234456827,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-21T21:25:10Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-23T23:57:40Z",
+      "open_issues": 0,
       "owner": "servusdei2018",
       "repo": "awesome-catholic",
       "stars": 361,
@@ -2028,7 +2091,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "9fcb734c9c3aa7063ab5849864e2d45767f4e56d",
+    "original_repository_sha": "315fc9b0fca2d340f3260fd50fe426fdad5985b5",
     "enhanced_repository": "enhansome/enhansome-catholic",
     "enhanced_repository_description": null,
     "title": "Awesome Catholic with stars"
